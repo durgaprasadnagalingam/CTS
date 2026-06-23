@@ -1,0 +1,14 @@
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-1-Singleton\bin\Debug\net10.0\Exercise-1-Singleton.exe
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-1-Singleton\bin\Debug\net10.0\Exercise-1-Singleton.deps.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-1-Singleton\bin\Debug\net10.0\Exercise-1-Singleton.runtimeconfig.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-1-Singleton\bin\Debug\net10.0\Exercise-1-Singleton.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-1-Singleton\bin\Debug\net10.0\Exercise-1-Singleton.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-1-Singleton\obj\Debug\net10.0\Exercise-1-Singleton.GeneratedMSBuildEditorConfig.editorconfig
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-1-Singleton\obj\Debug\net10.0\Exercise-1-Singleton.AssemblyInfoInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-1-Singleton\obj\Debug\net10.0\Exercise-1-Singleton.AssemblyInfo.cs
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-1-Singleton\obj\Debug\net10.0\Exercise-1-Singleton.csproj.CoreCompileInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-1-Singleton\obj\Debug\net10.0\Exercise-1-Singleton.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-1-Singleton\obj\Debug\net10.0\refint\Exercise-1-Singleton.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-1-Singleton\obj\Debug\net10.0\Exercise-1-Singleton.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-1-Singleton\obj\Debug\net10.0\Exercise-1-Singleton.genruntimeconfig.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-1-Singleton\obj\Debug\net10.0\ref\Exercise-1-Singleton.dll

@@ -1,0 +1,14 @@
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-9-CommandPattern\bin\Debug\net10.0\Exercise-9-CommandPattern.exe
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-9-CommandPattern\bin\Debug\net10.0\Exercise-9-CommandPattern.deps.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-9-CommandPattern\bin\Debug\net10.0\Exercise-9-CommandPattern.runtimeconfig.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-9-CommandPattern\bin\Debug\net10.0\Exercise-9-CommandPattern.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-9-CommandPattern\bin\Debug\net10.0\Exercise-9-CommandPattern.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-9-CommandPattern\obj\Debug\net10.0\Exercise-9-CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-9-CommandPattern\obj\Debug\net10.0\Exercise-9-CommandPattern.AssemblyInfoInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-9-CommandPattern\obj\Debug\net10.0\Exercise-9-CommandPattern.AssemblyInfo.cs
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-9-CommandPattern\obj\Debug\net10.0\Exercise-9-CommandPattern.csproj.CoreCompileInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-9-CommandPattern\obj\Debug\net10.0\Exercise-9-CommandPattern.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-9-CommandPattern\obj\Debug\net10.0\refint\Exercise-9-CommandPattern.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-9-CommandPattern\obj\Debug\net10.0\Exercise-9-CommandPattern.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-9-CommandPattern\obj\Debug\net10.0\Exercise-9-CommandPattern.genruntimeconfig.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-9-CommandPattern\obj\Debug\net10.0\ref\Exercise-9-CommandPattern.dll

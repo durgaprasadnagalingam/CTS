@@ -1,0 +1,14 @@
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-6-ProxyPattern\bin\Debug\net10.0\Exercise-6-ProxyPattern.exe
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-6-ProxyPattern\bin\Debug\net10.0\Exercise-6-ProxyPattern.deps.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-6-ProxyPattern\bin\Debug\net10.0\Exercise-6-ProxyPattern.runtimeconfig.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-6-ProxyPattern\bin\Debug\net10.0\Exercise-6-ProxyPattern.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-6-ProxyPattern\bin\Debug\net10.0\Exercise-6-ProxyPattern.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-6-ProxyPattern\obj\Debug\net10.0\Exercise-6-ProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-6-ProxyPattern\obj\Debug\net10.0\Exercise-6-ProxyPattern.AssemblyInfoInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-6-ProxyPattern\obj\Debug\net10.0\Exercise-6-ProxyPattern.AssemblyInfo.cs
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-6-ProxyPattern\obj\Debug\net10.0\Exercise-6-ProxyPattern.csproj.CoreCompileInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-6-ProxyPattern\obj\Debug\net10.0\Exercise-6-ProxyPattern.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-6-ProxyPattern\obj\Debug\net10.0\refint\Exercise-6-ProxyPattern.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-6-ProxyPattern\obj\Debug\net10.0\Exercise-6-ProxyPattern.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-6-ProxyPattern\obj\Debug\net10.0\Exercise-6-ProxyPattern.genruntimeconfig.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-6-ProxyPattern\obj\Debug\net10.0\ref\Exercise-6-ProxyPattern.dll

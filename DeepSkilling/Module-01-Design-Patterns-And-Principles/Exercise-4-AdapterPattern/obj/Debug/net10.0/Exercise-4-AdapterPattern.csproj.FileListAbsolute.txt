@@ -1,0 +1,14 @@
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-4-AdapterPattern\bin\Debug\net10.0\Exercise-4-AdapterPattern.exe
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-4-AdapterPattern\bin\Debug\net10.0\Exercise-4-AdapterPattern.deps.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-4-AdapterPattern\bin\Debug\net10.0\Exercise-4-AdapterPattern.runtimeconfig.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-4-AdapterPattern\bin\Debug\net10.0\Exercise-4-AdapterPattern.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-4-AdapterPattern\bin\Debug\net10.0\Exercise-4-AdapterPattern.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-4-AdapterPattern\obj\Debug\net10.0\Exercise-4-AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-4-AdapterPattern\obj\Debug\net10.0\Exercise-4-AdapterPattern.AssemblyInfoInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-4-AdapterPattern\obj\Debug\net10.0\Exercise-4-AdapterPattern.AssemblyInfo.cs
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-4-AdapterPattern\obj\Debug\net10.0\Exercise-4-AdapterPattern.csproj.CoreCompileInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-4-AdapterPattern\obj\Debug\net10.0\Exercise-4-AdapterPattern.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-4-AdapterPattern\obj\Debug\net10.0\refint\Exercise-4-AdapterPattern.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-4-AdapterPattern\obj\Debug\net10.0\Exercise-4-AdapterPattern.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-4-AdapterPattern\obj\Debug\net10.0\Exercise-4-AdapterPattern.genruntimeconfig.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-01-Design-Patterns-And-Principles\Exercise-4-AdapterPattern\obj\Debug\net10.0\ref\Exercise-4-AdapterPattern.dll
