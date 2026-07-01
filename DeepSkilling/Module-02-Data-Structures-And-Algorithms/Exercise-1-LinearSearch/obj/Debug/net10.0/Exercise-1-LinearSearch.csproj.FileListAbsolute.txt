@@ -1,0 +1,15 @@
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-1-LinearSearch\bin\Debug\net10.0\Exercise-1-LinearSearch.exe
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-1-LinearSearch\bin\Debug\net10.0\Exercise-1-LinearSearch.deps.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-1-LinearSearch\bin\Debug\net10.0\Exercise-1-LinearSearch.runtimeconfig.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-1-LinearSearch\bin\Debug\net10.0\Exercise-1-LinearSearch.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-1-LinearSearch\bin\Debug\net10.0\Exercise-1-LinearSearch.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-1-LinearSearch\obj\Debug\net10.0\Exercise-1-LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-1-LinearSearch\obj\Debug\net10.0\Exercise-1-LinearSearch.AssemblyInfoInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-1-LinearSearch\obj\Debug\net10.0\Exercise-1-LinearSearch.AssemblyInfo.cs
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-1-LinearSearch\obj\Debug\net10.0\Exercise-1-LinearSearch.csproj.CoreCompileInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-1-LinearSearch\obj\Debug\net10.0\Exercise-1-LinearSearch.sourcelink.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-1-LinearSearch\obj\Debug\net10.0\Exercise-1-LinearSearch.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-1-LinearSearch\obj\Debug\net10.0\refint\Exercise-1-LinearSearch.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-1-LinearSearch\obj\Debug\net10.0\Exercise-1-LinearSearch.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-1-LinearSearch\obj\Debug\net10.0\Exercise-1-LinearSearch.genruntimeconfig.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-1-LinearSearch\obj\Debug\net10.0\ref\Exercise-1-LinearSearch.dll

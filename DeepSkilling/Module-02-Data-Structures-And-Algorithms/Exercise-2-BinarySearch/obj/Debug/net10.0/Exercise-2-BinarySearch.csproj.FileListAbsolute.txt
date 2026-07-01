@@ -1,0 +1,15 @@
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-2-BinarySearch\bin\Debug\net10.0\Exercise-2-BinarySearch.exe
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-2-BinarySearch\bin\Debug\net10.0\Exercise-2-BinarySearch.deps.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-2-BinarySearch\bin\Debug\net10.0\Exercise-2-BinarySearch.runtimeconfig.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-2-BinarySearch\bin\Debug\net10.0\Exercise-2-BinarySearch.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-2-BinarySearch\bin\Debug\net10.0\Exercise-2-BinarySearch.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-2-BinarySearch\obj\Debug\net10.0\Exercise-2-BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-2-BinarySearch\obj\Debug\net10.0\Exercise-2-BinarySearch.AssemblyInfoInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-2-BinarySearch\obj\Debug\net10.0\Exercise-2-BinarySearch.AssemblyInfo.cs
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-2-BinarySearch\obj\Debug\net10.0\Exercise-2-BinarySearch.csproj.CoreCompileInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-2-BinarySearch\obj\Debug\net10.0\Exercise-2-BinarySearch.sourcelink.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-2-BinarySearch\obj\Debug\net10.0\Exercise-2-BinarySearch.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-2-BinarySearch\obj\Debug\net10.0\refint\Exercise-2-BinarySearch.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-2-BinarySearch\obj\Debug\net10.0\Exercise-2-BinarySearch.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-2-BinarySearch\obj\Debug\net10.0\Exercise-2-BinarySearch.genruntimeconfig.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-2-BinarySearch\obj\Debug\net10.0\ref\Exercise-2-BinarySearch.dll

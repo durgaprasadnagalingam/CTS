@@ -1,0 +1,15 @@
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-3-BubbleSort\bin\Debug\net10.0\Exercise-3-BubbleSort.exe
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-3-BubbleSort\bin\Debug\net10.0\Exercise-3-BubbleSort.deps.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-3-BubbleSort\bin\Debug\net10.0\Exercise-3-BubbleSort.runtimeconfig.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-3-BubbleSort\bin\Debug\net10.0\Exercise-3-BubbleSort.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-3-BubbleSort\bin\Debug\net10.0\Exercise-3-BubbleSort.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-3-BubbleSort\obj\Debug\net10.0\Exercise-3-BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-3-BubbleSort\obj\Debug\net10.0\Exercise-3-BubbleSort.AssemblyInfoInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-3-BubbleSort\obj\Debug\net10.0\Exercise-3-BubbleSort.AssemblyInfo.cs
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-3-BubbleSort\obj\Debug\net10.0\Exercise-3-BubbleSort.csproj.CoreCompileInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-3-BubbleSort\obj\Debug\net10.0\Exercise-3-BubbleSort.sourcelink.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-3-BubbleSort\obj\Debug\net10.0\Exercise-3-BubbleSort.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-3-BubbleSort\obj\Debug\net10.0\refint\Exercise-3-BubbleSort.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-3-BubbleSort\obj\Debug\net10.0\Exercise-3-BubbleSort.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-3-BubbleSort\obj\Debug\net10.0\Exercise-3-BubbleSort.genruntimeconfig.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-3-BubbleSort\obj\Debug\net10.0\ref\Exercise-3-BubbleSort.dll

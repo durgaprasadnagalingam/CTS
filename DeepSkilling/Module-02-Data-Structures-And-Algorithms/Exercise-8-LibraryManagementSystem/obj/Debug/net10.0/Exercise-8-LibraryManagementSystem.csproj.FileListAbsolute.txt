@@ -1,0 +1,15 @@
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-8-LibraryManagementSystem\bin\Debug\net10.0\Exercise-8-LibraryManagementSystem.exe
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-8-LibraryManagementSystem\bin\Debug\net10.0\Exercise-8-LibraryManagementSystem.deps.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-8-LibraryManagementSystem\bin\Debug\net10.0\Exercise-8-LibraryManagementSystem.runtimeconfig.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-8-LibraryManagementSystem\bin\Debug\net10.0\Exercise-8-LibraryManagementSystem.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-8-LibraryManagementSystem\bin\Debug\net10.0\Exercise-8-LibraryManagementSystem.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-8-LibraryManagementSystem\obj\Debug\net10.0\Exercise-8-LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-8-LibraryManagementSystem\obj\Debug\net10.0\Exercise-8-LibraryManagementSystem.AssemblyInfoInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-8-LibraryManagementSystem\obj\Debug\net10.0\Exercise-8-LibraryManagementSystem.AssemblyInfo.cs
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-8-LibraryManagementSystem\obj\Debug\net10.0\Exercise-8-LibraryManagementSystem.csproj.CoreCompileInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-8-LibraryManagementSystem\obj\Debug\net10.0\Exercise-8-LibraryManagementSystem.sourcelink.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-8-LibraryManagementSystem\obj\Debug\net10.0\Exercise-8-LibraryManagementSystem.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-8-LibraryManagementSystem\obj\Debug\net10.0\refint\Exercise-8-LibraryManagementSystem.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-8-LibraryManagementSystem\obj\Debug\net10.0\Exercise-8-LibraryManagementSystem.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-8-LibraryManagementSystem\obj\Debug\net10.0\Exercise-8-LibraryManagementSystem.genruntimeconfig.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-8-LibraryManagementSystem\obj\Debug\net10.0\ref\Exercise-8-LibraryManagementSystem.dll

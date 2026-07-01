@@ -1,0 +1,15 @@
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-5-MergeSort\bin\Debug\net10.0\Exercise-5-MergeSort.exe
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-5-MergeSort\bin\Debug\net10.0\Exercise-5-MergeSort.deps.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-5-MergeSort\bin\Debug\net10.0\Exercise-5-MergeSort.runtimeconfig.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-5-MergeSort\bin\Debug\net10.0\Exercise-5-MergeSort.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-5-MergeSort\bin\Debug\net10.0\Exercise-5-MergeSort.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-5-MergeSort\obj\Debug\net10.0\Exercise-5-MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-5-MergeSort\obj\Debug\net10.0\Exercise-5-MergeSort.AssemblyInfoInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-5-MergeSort\obj\Debug\net10.0\Exercise-5-MergeSort.AssemblyInfo.cs
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-5-MergeSort\obj\Debug\net10.0\Exercise-5-MergeSort.csproj.CoreCompileInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-5-MergeSort\obj\Debug\net10.0\Exercise-5-MergeSort.sourcelink.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-5-MergeSort\obj\Debug\net10.0\Exercise-5-MergeSort.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-5-MergeSort\obj\Debug\net10.0\refint\Exercise-5-MergeSort.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-5-MergeSort\obj\Debug\net10.0\Exercise-5-MergeSort.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-5-MergeSort\obj\Debug\net10.0\Exercise-5-MergeSort.genruntimeconfig.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-5-MergeSort\obj\Debug\net10.0\ref\Exercise-5-MergeSort.dll

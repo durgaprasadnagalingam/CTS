@@ -1,0 +1,15 @@
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-4-InsertionSort\bin\Debug\net10.0\Exercise-4-InsertionSort.exe
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-4-InsertionSort\bin\Debug\net10.0\Exercise-4-InsertionSort.deps.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-4-InsertionSort\bin\Debug\net10.0\Exercise-4-InsertionSort.runtimeconfig.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-4-InsertionSort\bin\Debug\net10.0\Exercise-4-InsertionSort.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-4-InsertionSort\bin\Debug\net10.0\Exercise-4-InsertionSort.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-4-InsertionSort\obj\Debug\net10.0\Exercise-4-InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-4-InsertionSort\obj\Debug\net10.0\Exercise-4-InsertionSort.AssemblyInfoInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-4-InsertionSort\obj\Debug\net10.0\Exercise-4-InsertionSort.AssemblyInfo.cs
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-4-InsertionSort\obj\Debug\net10.0\Exercise-4-InsertionSort.csproj.CoreCompileInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-4-InsertionSort\obj\Debug\net10.0\Exercise-4-InsertionSort.sourcelink.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-4-InsertionSort\obj\Debug\net10.0\Exercise-4-InsertionSort.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-4-InsertionSort\obj\Debug\net10.0\refint\Exercise-4-InsertionSort.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-4-InsertionSort\obj\Debug\net10.0\Exercise-4-InsertionSort.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-4-InsertionSort\obj\Debug\net10.0\Exercise-4-InsertionSort.genruntimeconfig.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-4-InsertionSort\obj\Debug\net10.0\ref\Exercise-4-InsertionSort.dll

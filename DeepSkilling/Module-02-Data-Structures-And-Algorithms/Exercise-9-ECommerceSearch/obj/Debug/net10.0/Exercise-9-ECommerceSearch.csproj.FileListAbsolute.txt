@@ -1,0 +1,15 @@
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-9-ECommerceSearch\bin\Debug\net10.0\Exercise-9-ECommerceSearch.exe
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-9-ECommerceSearch\bin\Debug\net10.0\Exercise-9-ECommerceSearch.deps.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-9-ECommerceSearch\bin\Debug\net10.0\Exercise-9-ECommerceSearch.runtimeconfig.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-9-ECommerceSearch\bin\Debug\net10.0\Exercise-9-ECommerceSearch.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-9-ECommerceSearch\bin\Debug\net10.0\Exercise-9-ECommerceSearch.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-9-ECommerceSearch\obj\Debug\net10.0\Exercise-9-ECommerceSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-9-ECommerceSearch\obj\Debug\net10.0\Exercise-9-ECommerceSearch.AssemblyInfoInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-9-ECommerceSearch\obj\Debug\net10.0\Exercise-9-ECommerceSearch.AssemblyInfo.cs
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-9-ECommerceSearch\obj\Debug\net10.0\Exercise-9-ECommerceSearch.csproj.CoreCompileInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-9-ECommerceSearch\obj\Debug\net10.0\Exercise-9-ECommerceSearch.sourcelink.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-9-ECommerceSearch\obj\Debug\net10.0\Exercise-9-ECommerceSearch.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-9-ECommerceSearch\obj\Debug\net10.0\refint\Exercise-9-ECommerceSearch.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-9-ECommerceSearch\obj\Debug\net10.0\Exercise-9-ECommerceSearch.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-9-ECommerceSearch\obj\Debug\net10.0\Exercise-9-ECommerceSearch.genruntimeconfig.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-9-ECommerceSearch\obj\Debug\net10.0\ref\Exercise-9-ECommerceSearch.dll

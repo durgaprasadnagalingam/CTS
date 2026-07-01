@@ -1,0 +1,15 @@
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-6-QuickSort\bin\Debug\net10.0\Exercise-6-QuickSort.exe
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-6-QuickSort\bin\Debug\net10.0\Exercise-6-QuickSort.deps.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-6-QuickSort\bin\Debug\net10.0\Exercise-6-QuickSort.runtimeconfig.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-6-QuickSort\bin\Debug\net10.0\Exercise-6-QuickSort.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-6-QuickSort\bin\Debug\net10.0\Exercise-6-QuickSort.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-6-QuickSort\obj\Debug\net10.0\Exercise-6-QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-6-QuickSort\obj\Debug\net10.0\Exercise-6-QuickSort.AssemblyInfoInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-6-QuickSort\obj\Debug\net10.0\Exercise-6-QuickSort.AssemblyInfo.cs
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-6-QuickSort\obj\Debug\net10.0\Exercise-6-QuickSort.csproj.CoreCompileInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-6-QuickSort\obj\Debug\net10.0\Exercise-6-QuickSort.sourcelink.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-6-QuickSort\obj\Debug\net10.0\Exercise-6-QuickSort.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-6-QuickSort\obj\Debug\net10.0\refint\Exercise-6-QuickSort.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-6-QuickSort\obj\Debug\net10.0\Exercise-6-QuickSort.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-6-QuickSort\obj\Debug\net10.0\Exercise-6-QuickSort.genruntimeconfig.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-6-QuickSort\obj\Debug\net10.0\ref\Exercise-6-QuickSort.dll

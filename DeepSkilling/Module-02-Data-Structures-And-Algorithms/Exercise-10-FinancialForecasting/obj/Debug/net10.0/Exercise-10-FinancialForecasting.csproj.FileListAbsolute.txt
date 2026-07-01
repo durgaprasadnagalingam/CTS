@@ -1,0 +1,15 @@
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-10-FinancialForecasting\bin\Debug\net10.0\Exercise-10-FinancialForecasting.exe
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-10-FinancialForecasting\bin\Debug\net10.0\Exercise-10-FinancialForecasting.deps.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-10-FinancialForecasting\bin\Debug\net10.0\Exercise-10-FinancialForecasting.runtimeconfig.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-10-FinancialForecasting\bin\Debug\net10.0\Exercise-10-FinancialForecasting.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-10-FinancialForecasting\bin\Debug\net10.0\Exercise-10-FinancialForecasting.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-10-FinancialForecasting\obj\Debug\net10.0\Exercise-10-FinancialForecasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-10-FinancialForecasting\obj\Debug\net10.0\Exercise-10-FinancialForecasting.AssemblyInfoInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-10-FinancialForecasting\obj\Debug\net10.0\Exercise-10-FinancialForecasting.AssemblyInfo.cs
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-10-FinancialForecasting\obj\Debug\net10.0\Exercise-10-FinancialForecasting.csproj.CoreCompileInputs.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-10-FinancialForecasting\obj\Debug\net10.0\Exercise-10-FinancialForecasting.sourcelink.json
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-10-FinancialForecasting\obj\Debug\net10.0\Exercise-10-FinancialForecasting.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-10-FinancialForecasting\obj\Debug\net10.0\refint\Exercise-10-FinancialForecasting.dll
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-10-FinancialForecasting\obj\Debug\net10.0\Exercise-10-FinancialForecasting.pdb
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-10-FinancialForecasting\obj\Debug\net10.0\Exercise-10-FinancialForecasting.genruntimeconfig.cache
+D:\download1\CTS-main\CTS-main\DeepSkilling\Module-02-Data-Structures-And-Algorithms\Exercise-10-FinancialForecasting\obj\Debug\net10.0\ref\Exercise-10-FinancialForecasting.dll
